@@ -12,6 +12,7 @@ myblog create [dir]
 myblog build [dir]
 
 
+本地执行时记得执行 npm link 注册到全局
 ---------------------
 一个简单的nodejs静态博客系统
 
